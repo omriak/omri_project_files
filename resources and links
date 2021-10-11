@@ -3,3 +3,10 @@ resources and links:
 article about Deconvolution and Checkerboard Artifacts:
 https://distill.pub/2016/deconv-checkerboard/
 
+
+python and tensorflow metirial:
+
+dataset.shuffle or dataset.repeat
+https://stackoverflow.com/questions/53514495/what-does-batch-repeat-and-shuffle-do-with-tensorflow-dataset
+
+
